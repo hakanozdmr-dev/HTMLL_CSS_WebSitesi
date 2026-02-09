@@ -37,5 +37,12 @@ Bu proje ile:
 - Framework kullanmadan web sitesi geliştirme mantığını kavramak  
 amaçlanmıştır.
 
-## Proje Dosya Yapısı
+
+## Not
+
+Bu proje **eğitim amaçlıdır** ve akademik bir ders kapsamında hazırlanmıştır.  
+İncelemek ve öğrenme amaçlı referans almak için paylaşılmıştır.
+
+Hazırlayan:  
+Hakan Özdemir
 
